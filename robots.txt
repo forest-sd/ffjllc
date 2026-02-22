@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ffjllc.com/sitemap.xml
+
+Sitemap: https://ffjllc.pages.dev/sitemap.xml
